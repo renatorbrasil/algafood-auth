@@ -1,4 +1,4 @@
-package com.algaworks.algafoodauth;
+package com.algaworks.algafood.auth;
 
 import java.util.Collections;
 
