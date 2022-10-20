@@ -50,6 +50,10 @@
 			<artifactId>spring-security-oauth2</artifactId>
 			<version>${spring-security-oauth2.version}</version>
 		</dependency>
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+		</dependency>
 	</dependencies>
 
 	<build>
